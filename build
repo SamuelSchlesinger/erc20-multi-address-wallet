@@ -1,0 +1,2 @@
+#!/bin/bash
+solcjs Wallet.sol IERC20.sol --bin
